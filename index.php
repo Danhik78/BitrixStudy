@@ -89,4 +89,10 @@ $APPLICATION->SetTitle("Мебельная компания");
 <p>
 </p>
 <p>
+<?
+if ($_GET['logout'] === 'y') {
+    $USER->Logout();
+    LocalRedirect('/');
+}
+?>
 </p><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

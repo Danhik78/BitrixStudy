@@ -1,4 +1,6 @@
 <?
+$PERM["moi-obyavleniya"]["8"]="W";
+$PERM["moi-obyavleniya"]["6"]="R";
 $PERM["moi-obyavleniya"]["*"]="D";
-$PERM["moi-obyavleniya"]["G6"]="R";
+$PERM["index.php"]["G8"]="W";
 ?>

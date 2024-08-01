@@ -4,28 +4,28 @@ $aMenuLinks = Array(
 		"Вакансии", 
 		"/o-servise/vakansii/", 
 		Array(), 
-		Array("clear_cache"=>"Y"), 
+		Array(), 
 		"" 
 	),
 	Array(
 		"Контакты", 
 		"/o-servise/kontakty/", 
 		Array(), 
-		Array("clear_cache"=>"Y"), 
+		Array(), 
 		"" 
 	),
 	Array(
 		"Новости", 
 		"/o-servise/novosti/", 
 		Array(), 
-		Array("clear_cache"=>"Y"), 
+		Array(), 
 		"" 
 	),
 	Array(
 		"Агенты", 
 		"/o-servise/agenty.php", 
 		Array(), 
-		Array("clear_cache"=>"Y"), 
+		Array(), 
 		"" 
 	)
 );

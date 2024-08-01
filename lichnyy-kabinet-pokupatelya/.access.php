@@ -1,5 +1,6 @@
 <?
+$PERM["izbrannoe"]["8"]="W";
+$PERM["izbrannoe"]["7"]="R";
 $PERM["izbrannoe"]["*"]="D";
-$PERM["izbrannoe"]["G7"]="R";
-$PERM["izbrannoe"]["G1"]="X";
+$PERM["index.php"]["G8"]="W";
 ?>
