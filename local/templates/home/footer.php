@@ -85,10 +85,9 @@ $APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH . "/js/jquery.magnific-popup.min.
 $APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH . "/js/bootstrap-datepicker.min.js");
 $APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH . "/js/aos.js");
 
-#$APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH . "/js/main.js");
+$APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH . "/js/main.js");
 ?>
 
-<script src="<?=SITE_TEMPLATE_PATH?>/js/main.js"></script>
 
 </body>
 
